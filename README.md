@@ -16,7 +16,7 @@
 
 
 **Tech stack**
-  1) Frontend - HTML,CSS
+  1) Frontend - HTML , CSS
   2) Backend - Python
   3) Predcition model - RandomForestClassifier
   4) Api Integration - OpenWeather , Gemini ai
