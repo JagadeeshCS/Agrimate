@@ -20,6 +20,7 @@ Agrimate is your digital agronomist, harnessing the power of AI to transform far
   5) Deployment - Render
 
 **Team**
+
       1) Frontend Development - Jagadeesh , Dhewager , DharshanRam Kumar
       2) Backend Development  - Dhewager , DharshanRam Kumar
       3) Recommendation Model - Dhewager , DharshanRam Kumar
