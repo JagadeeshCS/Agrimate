@@ -10,7 +10,7 @@ Agrimate is your digital agronomist, harnessing the power of AI to transform far
 - **Agricultural Knowledge Base**: 
                       Access a comprehensive database of farming techniques, market trends, and government schemes.
 - **Interactive Chatbot**:
--                     Get instant answers to your farming queries through our user-friendly chatbot, powered by Natural Language Processing.
+                      Get instant answers to your farming queries through our user-friendly chatbot, powered by Natural Language Processing.
 
 **Tech stack**
   1) Frontend - HTML,CSS
@@ -20,10 +20,10 @@ Agrimate is your digital agronomist, harnessing the power of AI to transform far
   5) Deployment - Render
 
 **Team**
-    1) Frontend Development - Jagadeesh , Dhewager , DharshanRam Kumar
-    2) Backend Development  - Dhewager , DharshanRam Kumar
-    3) Recommendation Model - Dhewager , DharshanRam Kumar
-    4) API Integration      - Jagadeesh , DharshanRam Kumar
+      1) Frontend Development - Jagadeesh , Dhewager , DharshanRam Kumar
+      2) Backend Development  - Dhewager , DharshanRam Kumar
+      3) Recommendation Model - Dhewager , DharshanRam Kumar
+      4) API Integration      - Jagadeesh , DharshanRam Kumar
 
 **Quick start**
 
