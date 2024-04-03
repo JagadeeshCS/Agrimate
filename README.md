@@ -1,4 +1,5 @@
 **About :**
+
 Agrimate is your digital agronomist, harnessing the power of AI to transform farming. Our platform offers precise crop recommendations, weather forecasts, and a rich knowledge base, all through a simple, intuitive interface.
 
 **Features**
@@ -20,11 +21,10 @@ Agrimate is your digital agronomist, harnessing the power of AI to transform far
   5) Deployment - Render
 
 **Team**
-
-      1) Frontend Development - Jagadeesh , Dhewager , DharshanRam Kumar
-      2) Backend Development  - Dhewager , DharshanRam Kumar
-      3) Recommendation Model - Dhewager , DharshanRam Kumar
-      4) API Integration      - Jagadeesh , DharshanRam Kumar
+  1) Frontend Development - Jagadeesh , Dhewager , DharshanRam Kumar
+  2) Backend Development  - Dhewager , DharshanRam Kumar
+  3) Recommendation Model - Dhewager , DharshanRam Kumar
+  4) API Integration      - Jagadeesh , DharshanRam Kumar
 
 **Quick start**
 
