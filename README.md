@@ -1,5 +1,4 @@
 **About :**
-
        Agrimate is your digital agronomist, harnessing the power of AI to transform farming. Our platform offers precise crop recommendations, weather forecasts, and a rich knowledge base, all through a simple, intuitive interface.
 
 
